@@ -1,0 +1,4 @@
+baseURL = "https://py-mo.github.io/"
+languageCode = "en-us"
+title = "Morteza Rahimi"
+theme = "PaperMod"
