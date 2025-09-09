@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Morteza Rahimi</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Morteza Rahimi</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why AI Captured My Curiosity — And Why It Should Capture Yours Too</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;It all started in 2019, just before the world went into lockdown. While friends were playing games or scrolling endlessly through social media, I stumbled upon a documentary about &lt;strong&gt;Artificial Intelligence&lt;/strong&gt;. That one hour changed everything. Suddenly, I realized that AI wasn’t just a buzzword — it was a doorway into a world where &lt;strong&gt;mathematics, logic, and creativity&lt;/strong&gt; collide.&lt;/p&gt;
+&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
+&lt;p&gt;From that moment, curiosity turned into passion. I started exploring programming with &lt;strong&gt;Python, C, and C++&lt;/strong&gt;, later experimenting with &lt;strong&gt;Rust&lt;/strong&gt;. Each language taught me something new, but what truly fascinated me was the &lt;strong&gt;why behind AI&lt;/strong&gt; — the mathematics, the algorithms, and the reasoning that makes machines intelligent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
