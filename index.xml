@@ -9,6 +9,25 @@
     <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11111111</title>
+      <link>http://localhost:1313/posts/11111111/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/11111111/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Programming&lt;/strong&gt; is the essence of creating without hands —&lt;br&gt;
+born from &lt;strong&gt;imagination&lt;/strong&gt; and &lt;strong&gt;dreams&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;It is the art of &lt;strong&gt;seeing the unseen&lt;/strong&gt;,&lt;br&gt;
+and &lt;strong&gt;hearing the silence&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Programming is not merely coding;&lt;br&gt;
+it is guiding the &lt;strong&gt;flow of thought&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;through hard metal,&lt;/strong&gt;
+&lt;strong&gt;to shape elegant patterns and forms&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A programmer is someone who cares about the process,&lt;br&gt;
+who &lt;strong&gt;shapes the river of ideas&lt;/strong&gt;,&lt;br&gt;
+and &lt;strong&gt;signs the song of nature&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;— Morteza Rahimi&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Large Concept Models (LCMs): A Paradigm Shift Beyond Token-Level Language Modeling</title>
       <link>http://localhost:1313/posts/lcm/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
