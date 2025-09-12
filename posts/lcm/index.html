@@ -5,12 +5,22 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>About Me | Morteza Rahimi</title>
+<title>Large Concept Models (LCMs): A Paradigm Shift Beyond Token-Level Language Modeling | Morteza Rahimi</title>
 <meta name="keywords" content="">
-<meta name="description" content="I began programming in 2019, just before the COVID-19 pandemic. When lockdowns started in 2020, while many turned to games and entertainment, I found myself drawn to a documentary about Artificial Intelligence — and that moment changed everything. What started as simple curiosity quickly became a lifelong passion.
-Since then, I have explored multiple programming languages, including Python, C, C&#43;&#43;, and Rust, building a strong foundation in software development. However, what truly excites me is the intersection of Artificial Intelligence and Mathematics — understanding not just how algorithms work, but why they work.">
+<meta name="description" content="Standard LLMs operate at the token level—chunking text into words or subwords and predicting the next token.
+But human thought works differently: we think in concepts, flows, and structures, not just discrete units.
+
+Core Innovation
+
+Semantic-level reasoning: The Large Concept Model (LCM) handles text at the sentence (concept) level instead of tokens, using the SONAR multilingual and multimodal embedding space as its foundation.
+Language and modality-agnostic abstraction: Concepts are universal—independent of language and format—enabling the same reasoning pipeline for text or speech across 200 languages.
+
+
+Architectural Variants
+One-Tower Models
+A single encoder-decoder stack directly predicts the next sentence representation in the SONAR space.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/about/">
+<link rel="canonical" href="http://localhost:1313/posts/lcm/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -19,7 +29,7 @@ Since then, I have explored multiple programming languages, including Python, C,
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/about/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/lcm/">
 <noscript>
     <style>
         #theme-toggle,
@@ -106,7 +116,7 @@ Since then, I have explored multiple programming languages, including Python, C,
             </li>
             <li>
                 <a href="http://localhost:1313/about/" title="About">
-                    <span class="active">About</span>
+                    <span>About</span>
                 </a>
             </li>
             <li>
@@ -123,24 +133,61 @@ Since then, I have explored multiple programming languages, including Python, C,
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      About Me
+      Large Concept Models (LCMs): A Paradigm Shift Beyond Token-Level Language Modeling
     </h1>
-    <div class="post-meta"><span title='2025-09-09 00:00:00 +0000 UTC'>September 9, 2025</span>
+    <div class="post-meta"><span title='2025-09-12 00:00:00 +0000 UTC'>September 12, 2025</span>
 
 </div>
   </header> 
-  <div class="post-content"><p>I began programming in 2019, just before the COVID-19 pandemic. When lockdowns started in 2020, while many turned to games and entertainment, I found myself drawn to a documentary about Artificial Intelligence — and that moment changed everything. What started as simple curiosity quickly became a lifelong passion.</p>
-<p>Since then, I have explored multiple programming languages, including <strong>Python, C, C++, and Rust</strong>, building a strong foundation in software development. However, what truly excites me is the intersection of <strong>Artificial Intelligence and Mathematics</strong> — understanding not just how algorithms work, but <em>why</em> they work.</p>
-<p>By 2022, I had made AI my central focus. My journey has led me to become familiar with several key areas:</p>
+  <div class="post-content"><p>Standard LLMs operate at the token level—chunking text into words or subwords and predicting the next token.<br>
+But human thought works differently: we think in concepts, flows, and structures, not just discrete units.</p>
+<hr>
+<h2 id="core-innovation">Core Innovation<a hidden class="anchor" aria-hidden="true" href="#core-innovation">#</a></h2>
 <ul>
-<li><strong>Machine Learning &amp; Mathematical Foundations</strong>: Delving into algorithms, statistics, and the mathematical principles that underpin intelligent systems.</li>
-<li><strong>Explainable AI (XAI)</strong>: Building transparent, interpretable, and trustworthy models that can be understood and verified.</li>
-<li><strong>Agents &amp; Large Language Models (LLMs)</strong>: Exploring cutting-edge approaches to interaction, reasoning, and knowledge retrieval.</li>
-<li><strong>AI System Design &amp; Deployment</strong>: Designing and implementing practical AI solutions, from research prototypes to production-ready applications.</li>
+<li><strong>Semantic-level reasoning</strong>: The Large Concept Model (LCM) handles text at the sentence (concept) level instead of tokens, using the SONAR multilingual and multimodal embedding space as its foundation.</li>
+<li><strong>Language and modality-agnostic abstraction</strong>: Concepts are universal—independent of language and format—enabling the same reasoning pipeline for text or speech across 200 languages.</li>
 </ul>
-<p>I approach every project with a mindset of <strong>deep learning and experimentation</strong>, focusing on both theoretical understanding and real-world impact.</p>
-<p>Outside of computer science, I find inspiration in <strong>Formula 1 racing</strong>, a sport that embodies precision, innovation, and relentless pursuit of improvement. I also enjoy <strong>reading and writing</strong>, which allow me to reflect, consolidate knowledge, and communicate ideas with clarity and depth.</p>
-<p>My journey is ongoing — I am constantly seeking new challenges, learning opportunities, and ways to contribute to the growing world of AI and technology.</p>
+<hr>
+<h2 id="architectural-variants">Architectural Variants<a hidden class="anchor" aria-hidden="true" href="#architectural-variants">#</a></h2>
+<h3 id="one-tower-models">One-Tower Models<a hidden class="anchor" aria-hidden="true" href="#one-tower-models">#</a></h3>
+<p>A single encoder-decoder stack directly predicts the next sentence representation in the SONAR space.</p>
+<ul>
+<li>Simpler design, but challenges in capturing cross-sentence consistency.</li>
+</ul>
+<h3 id="two-tower-models">Two-Tower Models<a hidden class="anchor" aria-hidden="true" href="#two-tower-models">#</a></h3>
+<p>Separate encoders and decoders:</p>
+<ul>
+<li>Encoder maps input into SONAR embedding space.</li>
+<li>Decoder predicts the next concept embedding.</li>
+<li>Provides modularity and allows adaptation across languages and modalities.</li>
+</ul>
+<h3 id="diffusion-based-models">Diffusion-Based Models<a hidden class="anchor" aria-hidden="true" href="#diffusion-based-models">#</a></h3>
+<p>Instead of direct prediction, sentence embeddings are generated through iterative denoising steps, akin to diffusion models in vision.</p>
+<ul>
+<li>Captures richer distributions.</li>
+<li>Enables higher flexibility in multi-modal reasoning.</li>
+</ul>
+<hr>
+<h2 id="scaling-experiments">Scaling Experiments<a hidden class="anchor" aria-hidden="true" href="#scaling-experiments">#</a></h2>
+<ul>
+<li><strong>LCM-1.6B</strong> trained on ~1.3T tokens across 200 languages.</li>
+<li><strong>LCM-7B</strong> scaled to ~2.7T tokens, showing stronger multilingual performance and long-context coherence.</li>
+<li>Scaling follows trends seen in LLMs: larger LCMs generalize better, but with efficiency gains due to shorter concept sequences.</li>
+</ul>
+<hr>
+<h2 id="key-insights">Key Insights<a hidden class="anchor" aria-hidden="true" href="#key-insights">#</a></h2>
+<ul>
+<li><strong>Efficiency</strong>: Concept-level modeling compresses input—reducing sequence length compared to tokens.</li>
+<li><strong>Coherence</strong>: Higher-level abstractions improve sentence-level consistency in long-form text.</li>
+<li><strong>Flexibility</strong>: Modular architecture allows extension to new modalities with minimal retraining.</li>
+</ul>
+<hr>
+<p>📄 <strong>Read the paper:</strong><br>
+<a href="https://arxiv.org/abs/2412.08821">Large Concept Models: Language Modeling in a Sentence Representation Space</a></p>
+<hr>
+<p>By moving beyond tokens, LCMs open a path to scalable, multilingual, and semantically grounded AI systems.</p>
+<hr>
+<p><em>— Morteza Rahimi</em></p>
 
 
   </div>
