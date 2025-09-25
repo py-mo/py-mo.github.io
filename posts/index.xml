@@ -6,8 +6,28 @@
     <description>Recent content in Posts on Morteza Rahimi</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://py-mo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instruction Tuning: Teaching Language Models to Follow Human Intent</title>
+      <link>https://py-mo.github.io/posts/instruction-tuning/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://py-mo.github.io/posts/instruction-tuning/</guid>
+      <description>&lt;p&gt;Large Language Models (LLMs) trained only on raw text are powerful predictors of the next token.&lt;br&gt;
+But without further alignment, they often fail to follow user intent or behave helpfully.&lt;br&gt;
+&lt;strong&gt;Instruction tuning&lt;/strong&gt; addresses this gap by fine-tuning LLMs on datasets of instructions and demonstrations, making them better at generalizing to unseen tasks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;core-innovation&#34;&gt;Core Innovation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Instruction–response supervision&lt;/strong&gt;: Models are trained on pairs of natural language instructions and desired outputs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generalization to unseen tasks&lt;/strong&gt;: Exposure to diverse instructions enables models to follow new tasks zero-shot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human alignment&lt;/strong&gt;: Shifts models from raw text generation to human-centered assistance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;architectural-variants&#34;&gt;Architectural Variants&lt;/h2&gt;
+&lt;h3 id=&#34;supervised-fine-tuning-sft&#34;&gt;Supervised Fine-Tuning (SFT)&lt;/h3&gt;
+&lt;p&gt;Fine-tuning a pretrained model directly on (instruction, input, output) triples.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>11111111</title>
       <link>https://py-mo.github.io/posts/11111111/</link>
