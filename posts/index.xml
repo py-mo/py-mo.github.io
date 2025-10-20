@@ -6,8 +6,42 @@
     <description>Recent content in Posts on Morteza Rahimi</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://py-mo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target</title>
+      <link>https://py-mo.github.io/posts/bait/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://py-mo.github.io/posts/bait/</guid>
+      <description>&lt;p&gt;The paper &lt;strong&gt;“BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target”&lt;/strong&gt; addresses &lt;strong&gt;backdoor (trojan) attacks in LLMs&lt;/strong&gt; by proactively detecting hidden triggers through &lt;strong&gt;attack target inversion&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;core-innovation&#34;&gt;Core Innovation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backdoor detection via inversion&lt;/strong&gt;: Instead of waiting for malicious prompts, BAIT reconstructs potential trojan triggers to expose hidden vulnerabilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non-intrusive scanning&lt;/strong&gt;: Works without retraining, allowing safe inspection of deployed models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;architectural-highlights&#34;&gt;Architectural Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Scans models across layers to detect vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Works efficiently on &lt;strong&gt;models up to 13B parameters&lt;/strong&gt;, demonstrating scalability to large LLMs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;comparison--key-insights&#34;&gt;Comparison &amp;amp; Key Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Detection accuracy&lt;/strong&gt;: BAIT achieves &lt;strong&gt;~90%&lt;/strong&gt;, outperforming prior methods:
+&lt;ul&gt;
+&lt;li&gt;STRIP: ~70%&lt;/li&gt;
+&lt;li&gt;Standard anomaly detection: ~65%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Backdoors can exist even in models that appear safe.&lt;/li&gt;
+&lt;li&gt;Inverting the attack target is a &lt;strong&gt;more systematic and reliable approach&lt;/strong&gt; than previous defenses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📄 &lt;strong&gt;Read the paper for full details and experiments:&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.purdue.edu/homes/shen447/files/paper/sp25_bait.pdf&#34;&gt;BAIT&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Instruction Tuning: Teaching Language Models to Follow Human Intent</title>
       <link>https://py-mo.github.io/posts/instruction-tuning/</link>
