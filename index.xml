@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Morteza Rahimi</title>
-    <link>https://py-mo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Morteza Rahimi</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://py-mo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target</title>
-      <link>https://py-mo.github.io/posts/bait/</link>
+      <link>http://localhost:1313/posts/bait/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://py-mo.github.io/posts/bait/</guid>
+      <guid>http://localhost:1313/posts/bait/</guid>
       <description>&lt;p&gt;The paper &lt;strong&gt;“BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target”&lt;/strong&gt; addresses &lt;strong&gt;backdoor (trojan) attacks in LLMs&lt;/strong&gt; by proactively detecting hidden triggers through &lt;strong&gt;attack target inversion&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;core-innovation&#34;&gt;Core Innovation&lt;/h2&gt;
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>Instruction Tuning: Teaching Language Models to Follow Human Intent</title>
-      <link>https://py-mo.github.io/posts/instruction-tuning/</link>
+      <link>http://localhost:1313/posts/instruction-tuning/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://py-mo.github.io/posts/instruction-tuning/</guid>
+      <guid>http://localhost:1313/posts/instruction-tuning/</guid>
       <description>&lt;p&gt;Large Language Models (LLMs) trained only on raw text are powerful predictors of the next token.&lt;br&gt;
 But without further alignment, they often fail to follow user intent or behave helpfully.&lt;br&gt;
 &lt;strong&gt;Instruction tuning&lt;/strong&gt; addresses this gap by fine-tuning LLMs on datasets of instructions and demonstrations, making them better at generalizing to unseen tasks.&lt;/p&gt;
@@ -64,9 +64,9 @@ But without further alignment, they often fail to follow user intent or behave h
     </item>
     <item>
       <title>11111111</title>
-      <link>https://py-mo.github.io/posts/11111111/</link>
+      <link>http://localhost:1313/posts/11111111/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://py-mo.github.io/posts/11111111/</guid>
+      <guid>http://localhost:1313/posts/11111111/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Programming&lt;/strong&gt; is the essence of creating without hands —&lt;br&gt;
 born from &lt;strong&gt;imagination&lt;/strong&gt; and &lt;strong&gt;dreams&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;It is the art of &lt;strong&gt;seeing the unseen&lt;/strong&gt;,&lt;br&gt;
@@ -83,9 +83,9 @@ and &lt;strong&gt;signs the song of nature&lt;/strong&gt;.&lt;/p&gt;
     </item>
     <item>
       <title>Large Concept Models (LCMs): A Paradigm Shift Beyond Token-Level Language Modeling</title>
-      <link>https://py-mo.github.io/posts/lcm/</link>
+      <link>http://localhost:1313/posts/lcm/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://py-mo.github.io/posts/lcm/</guid>
+      <guid>http://localhost:1313/posts/lcm/</guid>
       <description>&lt;p&gt;Standard LLMs operate at the token level—chunking text into words or subwords and predicting the next token.&lt;br&gt;
 But human thought works differently: we think in concepts, flows, and structures, not just discrete units.&lt;/p&gt;
 &lt;hr&gt;
@@ -101,17 +101,17 @@ But human thought works differently: we think in concepts, flows, and structures
     </item>
     <item>
       <title>About Me</title>
-      <link>https://py-mo.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://py-mo.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I began programming in 2019, just before the COVID-19 pandemic. When lockdowns started in 2020, while many turned to games and entertainment, I found myself drawn to a documentary about Artificial Intelligence — and that moment changed everything. What started as simple curiosity quickly became a lifelong passion.&lt;/p&gt;
 &lt;p&gt;Since then, I have explored multiple programming languages, including &lt;strong&gt;Python, C, C++, and Rust&lt;/strong&gt;, building a strong foundation in software development. However, what truly excites me is the intersection of &lt;strong&gt;Artificial Intelligence and Mathematics&lt;/strong&gt; — understanding not just how algorithms work, but &lt;em&gt;why&lt;/em&gt; they work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why AI Captured My Curiosity — And Why It Should Capture Yours Too</title>
-      <link>https://py-mo.github.io/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://py-mo.github.io/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;p&gt;It all started in 2019, just before the world went into lockdown. While friends were playing games or scrolling endlessly through social media, I stumbled upon a documentary about &lt;strong&gt;Artificial Intelligence&lt;/strong&gt;. That one hour changed everything. Suddenly, I realized that AI wasn’t just a buzzword — it was a doorway into a world where &lt;strong&gt;mathematics, logic, and creativity&lt;/strong&gt; collide.&lt;/p&gt;
 &lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
 &lt;p&gt;From that moment, curiosity turned into passion. I started exploring programming with &lt;strong&gt;Python, C, and C++&lt;/strong&gt;, later experimenting with &lt;strong&gt;Rust&lt;/strong&gt;. Each language taught me something new, but what truly fascinated me was the &lt;strong&gt;why behind AI&lt;/strong&gt; — the mathematics, the algorithms, and the reasoning that makes machines intelligent.&lt;/p&gt;</description>
